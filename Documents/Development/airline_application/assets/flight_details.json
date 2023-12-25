@@ -1,0 +1,43 @@
+[
+{
+"startPlace": "MLB",
+"destinationPlace": "CMB",
+"dateOfTheFlight": "2023-12-25",
+"flightNo": "ABC123",
+"duration": "3h 30m",
+"ticketPrice": 50000.0
+},
+{
+"startPlace": "MLB",
+"destinationPlace": "CMB",
+"dateOfTheFlight": "2023-12-30",
+"flightNo": "XYZ456",
+"duration": "4h 15m",
+"ticketPrice": 60000.0
+},
+{
+"startPlace": "CMB",
+"destinationPlace": "MLB",
+"dateOfTheFlight": "2023-12-30",
+"flightNo": "XYF786",
+"duration": "3h 15m",
+"ticketPrice": 60000.0
+},
+{
+"startPlace": "MLB",
+"destinationPlace": "CMB",
+"dateOfTheFlight": "2023-12-26",
+"flightNo": "CDE456",
+"duration": "4h 15m",
+"ticketPrice": 70000.0
+},
+{
+"startPlace": "MLB",
+"destinationPlace": "CMB",
+"dateOfTheFlight": "2023-12-30",
+"flightNo": "XYZ456",
+"duration": "4h 15m",
+"ticketPrice": 60000.0
+}
+
+]
